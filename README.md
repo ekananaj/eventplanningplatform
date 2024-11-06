@@ -14,9 +14,3 @@ This project is an event planning platform where users can manage events, invite
 - **Backend**: FastAPI (Python)
 - **Database**: PostgreSQL (for storing events and guest information)
 - **AI**: Simple recommendation algorithm (can be expanded with collaborative filtering)
-
-## Installation and Setup
-
-### Prerequisites
-
-- **Docker**: Ensure Docker is installed.
