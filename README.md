@@ -20,10 +20,3 @@ This project is an event planning platform where users can manage events, invite
 ### Prerequisites
 
 - **Docker**: Ensure Docker is installed.
-
-### Instructions
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/event-planning-platform.git
-   cd event-planning-platform
